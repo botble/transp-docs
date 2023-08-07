@@ -2,12 +2,16 @@
 
 ## Custom CSS
 
-You can customize CSS in `Admin` -> `Appearance` -> `Custom CSS`.
+- Go to Admin -> Appearance -> Custom CSS.
 
-![](/images/custom-css.png)
+![Custom CSS](../images/usage-custom-css.png)
 
 ## Custom JS
 
-You can also customize JS in `Admin` -> `Appearance` -> `Custom JS`.
+- Go to Admin -> Appearance -> Custom JS.
 
-![](/images/custom-js.png)
+![Custom JS](../images/usage-custom-js.png)
+
+## Add your CSS/JS directly in the source code
+
+You can add your CSS/JS directly in `platform/themes/[your-theme]/partials/footer.blade.php`.
