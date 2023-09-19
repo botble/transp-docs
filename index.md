@@ -6,9 +6,9 @@ TransP is Laravel Transport Courier & Logistics script using Laravel 9.x. It's a
 
 Created: _Aug 07, 2023_
 
-By: [Archi Elite](https://archielite.com)
+**By:** [Botble Technologies](https://botble.com)
 
-Email: [contact@archielite.com](mailto:contact@archielite.com)
+**Email:** [contact@botble.com](mailto:contact@botble.com)
 
 Thank you for purchasing this product. If you have any questions that are beyond the scope of this help file,
 please feel free to email via my user page contact form [here](https://codecanyon.net.net/user/archielite) for quickly support. Thank you so much!
@@ -34,6 +34,6 @@ Password: `159357`
 - Fully Responsive: Compatible with all screen resolutions.
 - Coding Standard: All code follow coding standards PSR-12 and best practices.
 
-## Archi Elite Team
+## Botble Team
 
-Visit us at [https://archielite.com](archielite.com)
+For more about our team, visit us at [https://botble.com](https://botble.com).
