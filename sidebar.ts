@@ -24,7 +24,6 @@ export default [
       { text: 'Setup menus',  link: '/transp/usage-menus' },
       { text: 'Setup theme options',  link: '/transp/usage-theme-options' },
       { text: 'Widgets', link: '/transp/usage-widgets' },
-      { text: 'Rename theme', link: '/transp/theme-rename' },
       { text: 'Custom CSS/JS', link: '/transp/usage-custom-css-js' },
       { text: 'Translation', link: '/transp/usage-translation' },
       { text: 'Multi-language', link: '/transp/usage-multi-language' },
