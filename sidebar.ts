@@ -28,13 +28,11 @@ export default [
       { text: 'Custom CSS/JS', link: '/transp/usage-custom-css-js' },
       { text: 'Translation', link: '/transp/usage-translation' },
       { text: 'Multi-language', link: '/transp/usage-multi-language' },
-      { text: 'Location', link: '/transp/usage-location' },
       { text: 'Google Analytics', link: '/transp/usage-analytics' },
       { text: 'Media - Setup Amazon S3', link: '/transp/usage-media-s3' },
       { text: 'Media - Setup BunnyCDN', link: '/transp/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/transp/usage-media-wasabi' },
       { text: 'Setup email', link: '/transp/usage-email' },
-      { text: 'Backup', link: '/transp/plugin-backup' },
     ],
   },
   {
