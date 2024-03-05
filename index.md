@@ -15,9 +15,9 @@ please feel free to email via my user page contact form [here](https://codecanyo
 
 ## Demo
 
-Username: `botble`
+Username: `admin`
 
-Password: `159357`
+Password: `12345678`
 
 ## Features
 
